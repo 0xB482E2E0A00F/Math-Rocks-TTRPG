@@ -29,7 +29,7 @@
   
   - presence(pres) - violet: This stat represents a character's charisma, charm, and ability to command attention. Characters with high presence may be more influential, have a stronger stage presence, or have an easier time persuading others.
   
-  **Note ** that these are merely proposals and ultimatlely wheter or not to use these particular stats are left to the GMs descresion.  The GM and players may, as always, choose to add, remove, or modify stats as they best suit their play style.  Going forward the proposed stats will be referred to as the "standard stat block" and the optionally associated colors will be.  There are three standard ways of rolling stats.  
+  **Note ** that these are merely proposals and ultimatlely wheter or not to use these particular stats are left to the GMs descresion.  The GM and players may, as always, choose to add, remove, or modify stats as they best suit their play style.  Going forward the proposed stats will be referred to as the "standard stat block" and the optionally associated colors will be known as "stat colors".  There are three standard ways of rolling stats.  
   
   - Commoner rolls: Roll 7d8-5. Place them into your stat block starting at the top and working down the list.
   
@@ -104,11 +104,3 @@
 - **Other systems**
   
   It is likely that many campains may require additional systems to function as intended.  Such as magic modules, or cyberpunk modules, or social encounter modules.  This is encuraged.  Take the MRGRC and build ontop of it, modify it, rip out bits you don't like.  Ultimately the MRGRC was created as guidance to help people start and run their own ttrpgs campaigns.  
-
-
-
-
-
-
-
-
